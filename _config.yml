@@ -20,7 +20,7 @@ url:                   https://heannnn.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Haeun's Blog
+title:                 Heannnn's Blog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
   풀스택을 꿈꾸는 개발자 하은 블로그
 
 # A shorter description for the sidebar.
-tagline:               인지소프트 개발팀 안하은
+tagline:               Developer Heannnn
 
 # A list of keywords for your blog
 keywords:              [git, gitblog, back-end, front-end, full-stack, C#, C++, Python, Java, .Net, Spring]
@@ -48,12 +48,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
+  - title:             Example1
+    url:               /example1/
+  - title:             Example2
+    url:               /example2/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -79,8 +79,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
