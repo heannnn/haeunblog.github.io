@@ -28,7 +28,7 @@
 
 ## Work Experiences
 ---
-> 2021.12 ~  Inzisoft 개발팀
+> 2020.12 ~  Inzisoft 개발팀
 
 ## Skills and Certification
 ---
