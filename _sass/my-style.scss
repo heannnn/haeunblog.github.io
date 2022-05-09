@@ -30,3 +30,25 @@
   width: 6rem; // inlineflex : Inline(Inline Block) 요소와 같은 성향(수평 쌓임)
   margin-left: -1px;
 }
+
+.nav-btn-bar{
+  height: 3rem;
+}
+
+// jekyll 테마에 의해 고정되어있기 때문에 바꿔주기위해 가져옴.
+.content .avatar {
+  float: left !important;
+  box-sizing: content-box;
+  border: 1rem solid var(--body-bg);
+  transition: border-color 1s ease;
+  margin-top: 5px !important;
+  margin-left: 5px !important;
+  width: 140px !important;
+  height: 140px !important;
+}
+
+.author-body-description{
+  margin-left: 200px !important;
+  margin-top: 40px !important;
+
+}
