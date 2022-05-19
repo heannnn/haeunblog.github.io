@@ -3,7 +3,7 @@ layout: about
 image: /assets/img/me/me.jpg
 description: >
   풀스택 개발자를 꿈꾸는 heannnn입니다.
-hide_description: false
+hide_description: true
 ---
 
 # About
